@@ -1,7 +1,7 @@
 {
   "name": "fiken-error-test",
   "version": "1.0.0",
-  "repository": "github:cobraz/fiken-error-test",
+  "repository": "github:simenandre/fiken-error-test",
   "license": "MIT",
   "author": "Simen A. W. Olsen <so@bjerk.io>",
   "main": "index.js",
