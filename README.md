@@ -4,7 +4,7 @@ This repository is used to get error messages, to learn how they look like.
 
 ## Quickstart
 
-Get your personal Folio API key and the company slug, add it to a `.env` file, like so:
+Get your personal Fiken API key and the company slug, add it to a `.env` file, like so:
 
 ```
 FIKEN_API_TOKEN=your-key
